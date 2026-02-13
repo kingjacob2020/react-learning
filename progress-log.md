@@ -15,3 +15,7 @@
 ## 2026-02-10
 - Improved layout and styling
 - Connected components together
+
+## 2026-02-12
+- Implement click event handling (Tutorial Part 8)
+- Learned corrent event handler syntax in React
